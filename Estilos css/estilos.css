@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+.main_title{
+    color: white;
+}
+iframe{
+    width: 80%;
+    height: 90vh;
+    text-align: center;
+    border-radius: 2em;
+}
